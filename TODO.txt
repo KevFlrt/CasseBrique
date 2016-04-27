@@ -1,0 +1,15 @@
+Fait : 
+
+ - Lancement du jeu
+ - Gestion de la position de la balle (rebonds, balles perdues)
+ - Calcul du score
+ - Etat de la partie (partie gagnée, partie perdue, nombre de vies)
+ - Chargement de niveaux (2 niveaux différents)
+
+A faire : 
+
+ - Gérer choix des niveaux depuis le fichier levels.txt
+ 
+A corriger :
+
+ - Lancement de la fenêtre : la barre de menus ne s'affiche pas, le jeu ne peut se lancer
